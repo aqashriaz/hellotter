@@ -1,0 +1,235 @@
+ body
+{
+	background-color: #33ffff !important;
+	font-family: "Open Sans" !important;	
+}
+@media only screen and (max-width: 768px) 
+{
+	.logo1 
+	{
+		margin-top: 20%;
+		color: #33ffff !important;
+	}
+}
+.logo2
+{
+	font-family: "Open Sans" !important;
+	color: #ffffff !important;
+	text-align: center !important;
+}
+@media only screen and (max-width: 991px) 
+{
+	.logo2 {
+		font-family: "Open Sans" !important;
+	text-align: center !important;
+		font-size: 30px;
+		color: #ffffff !important;
+		font-weight: 800;
+	}
+}
+.signup
+{
+	background-color: 	#e8e8e8 !important;
+	width: 120px !important;
+	text-align: center !important;
+	height: 35px !important;
+	font-weight: 500 !important;
+	color: black !important;
+	border: none !important;
+	font-size: 14px !important;
+	font-family: "Open Sans" !important;
+}
+
+@media only screen and (max-width: 768px) {
+	.signup {
+
+		background-color: 	#e8e8e8 !important;
+		text-align: center !important;
+		color: black !important;
+		border: none !important;
+		font-size: 30px !important;
+		width: 220px !important;
+		height: 70px !important;
+		font-weight: 500 !important;
+		font-family: "Open Sans" !important; 
+	}
+}
+
+
+@media only screen and (max-width: 991px) {
+	.signup {
+		font-weight: 500 !important;
+		background-color: 	#e8e8e8 !important;
+		text-align: center !important;
+		color: black !important;
+		border: none !important;
+		font-size: 30px !important;
+		width: 220px !important;
+		height: 70px !important;
+		font-family: "Open Sans" !important; }
+	}
+
+
+
+	.login{
+		height: 35px !important;
+		font-weight: 500 !important;
+		background-color: 	#fc5757 !important;
+		width: 120px !important;
+		font-size: 14px !important;
+		text-align: center !important;
+		border: none !important;
+		color: white !important;
+		border-radius: 0px !important;
+		font-family: "Open Sans" !important;
+	}
+
+
+	@media only screen and (max-width: 768px) {
+		.login {
+
+			background-color: 	#fc5757 !important;
+			text-align: center !important;
+			color: white !important;
+			font-weight: 500 !important;
+			border-radius: 0px !important;
+			border: none !important;
+			font-size: 30px !important;
+			width: 220px !important;
+			height: 70px !important;
+			font-family: "Open Sans" !important; }
+		}
+
+		@media only screen and (max-width: 991px) {
+			.login {
+				font-weight: 500 !important;
+				background-color: 	#fc5757 !important;
+				text-align: center !important;
+				color: white !important;
+				border-radius: 0px !important;
+				border: none !important;
+				font-size: 30px !important;
+				width: 220px !important;
+				height: 70px !important;
+				font-family: "Open Sans" !important; }
+			}
+			.image1{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				margin-top: 12%;
+				width: 220px;
+				height: 220px;
+			}
+			@media only screen and (max-width: 768px) {
+				.image1 {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					margin-top: 40%;
+					width: 450px;
+					height: 450px;   
+
+				}
+			}
+
+			@media only screen and (max-width: 991px) {
+				.image1 {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					margin-top: 40%;
+					width: 450px;
+					height: 450px;   
+				}
+			}
+
+
+.image5{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	width: 180px;
+	height: 180px;
+}
+@media only screen and (max-width: 768px) {
+  .image5 {
+display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	width: 350px;
+	height: 350px;  
+	 }
+}
+
+@media only screen and (max-width: 991px) {
+  .image5 {
+display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	width: 350px;
+	height: 350px; 
+	  }
+}
+
+
+
+
+.iptx1{
+			height: 30px;
+			font-size: 14px;
+			border: 1px solid #cfcfff;
+			padding: 0 15px;
+			border-radius: 5px;
+			letter-spacing: normal;
+			word-spacing: normal;
+			text-transform: none;
+			text-indent: 0px;
+			text-shadow: none;
+			width: 30%;
+			padding: 10px;
+
+			text-align: start;
+			-webkit-appearance: textfield;
+		}
+
+@media only screen and (max-width: 991px) {
+			.iptx1 {
+				height: 50px;
+				font-size: 28px;
+				border: 1px solid #cfcfff;
+				padding: 0 15px;
+				border-radius: 5px;
+				letter-spacing: normal;
+				word-spacing: normal;
+				text-transform: none;
+				text-indent: 0px;
+				text-shadow: none;
+				width: 100%;
+				padding: 10px;
+				text-align: start;
+				-webkit-appearance: textfield;
+			}
+		}
+
+
+
+
+			.btn1{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			@media only screen and (max-width: 991px) {
+				.btn1 {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+
+				}
+			}
+
+
